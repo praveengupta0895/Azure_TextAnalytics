@@ -2,7 +2,7 @@ import requests
 from pprint import pprint
 
 
-subscription_key = "556e2d18c72c4fc3b053c9ad0f539408"
+subscription_key = "556e2d18c72c4fc3b053c9ad0f539406"
 assert subscription_key
 
 text_analytics_base_url = "https://westus2.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment"
