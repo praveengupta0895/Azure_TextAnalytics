@@ -3,7 +3,7 @@ from pprint import pprint
 import json
 
 
-subscription_key = "ec198c4352ba4555b2481527614f660d"
+subscription_key = "ec198c4f660d"
 assert subscription_key
 
 text_analytics_base_url = "https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment"
